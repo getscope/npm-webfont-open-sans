@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local('Open Sans Bold'), local('OpenSans-Bold'),
+    url('../../fonts/open-sans-700-normal.woff2') format('woff2'),
+    url('../../fonts/open-sans-700-normal.woff') format('woff'),
+    url('../../fonts/open-sans-700-normal.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}

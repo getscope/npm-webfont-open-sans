@@ -1,0 +1,27 @@
+{
+    "name": "@getscope/npm-webfont-open-sans",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Package to install webfont: Open Sans.",
+    "keywords": [
+        "getscope",
+        "npm",
+        "webfont",
+        "open sans"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/getscope/npm-webfont-open-sans",
+    "license": "MIT",
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru",
+        "homepage": "https://bu0nq.ru",
+        "role": "Developer"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/getscope/npm-webfont-open-sans.git"
+    }
+}
